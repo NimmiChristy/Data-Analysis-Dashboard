@@ -21,9 +21,9 @@ Sales Trend Chart – Monitor daily/weekly sales patterns.
 
 Heatmap View – Visualize sales intensity across days of the week.
 
-📂 Dataset (Sample)
+📂 Dataset 
 
-The dashboard is powered by sample datasets (Excel/CSV) that include:
+The dashboard is powered by sample datasets Excel that include:
 
 Sales Transactions – Order ID, Date, Product, Quantity, Price, Total Sales.
 
@@ -39,7 +39,7 @@ Power BI Desktop – Data modeling, DAX calculations, visualization.
 
 Power Query – Data cleaning and transformation.
 
-Excel/CSV – Source data files.
+Excel – Source data files.
 
 📈 Business Insights Gained
 
