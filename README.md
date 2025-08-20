@@ -1,7 +1,7 @@
-☕ Coffee Shop Sales Dashboard (Power BI)
+#☕ Coffee Shop Sales Dashboard (Power BI)
 📊 Project Overview
 
-This project is a Power BI dashboard designed to analyze and visualize sales performance for a coffee shop chain. The dashboard provides insights into revenue, order trends, product performance, and customer buying behavior across different locations and time periods.
+##This project is a Power BI dashboard designed to analyze and visualize sales performance for a coffee shop chain. The dashboard provides insights into revenue, order trends, product performance, and customer buying behavior across different locations and time periods.
 
 The goal of this project is to empower business owners and managers with data-driven decision-making by presenting KPIs and trends in an interactive and visually engaging format.
 
